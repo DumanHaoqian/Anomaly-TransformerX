@@ -3,50 +3,6 @@
 ## Overview
 This repository contains the implementation and details of our project **Anomaly-TransformerX**, developed as part of the **COMP4434 Big Data Analytics Project**. Our work focuses on enhancing anomaly detection in time series data by addressing limitations in existing methodologies, particularly the Anomaly Transformer model. 
 
-### Authors
-- **Haoqian DU**  
-  Dept. of Computing, The Hong Kong Polytechnic University  
-  Hong Kong, China  
-  Email: [23098841d@connect.polyu.hk](mailto:23098841d@connect.polyu.hk)
-
-- **Zhimeng GUO**  
-  Dept. of Applied Mathematics, The Hong Kong Polytechnic University  
-  Hong Kong, China  
-  Email: [22098789d@connect.polyu.hk](mailto:22098789d@connect.polyu.hk)
-
-- **Huilin LIANG**  
-  Dept. of Applied Mathematics, The Hong Kong Polytechnic University  
-  Hong Kong, China  
-  Email: [24138797d@connect.polyu.hk](mailto:24138797d@connect.polyu.hk)
-
----
-
-## Table of Contents
-- [Grading Guide](#grading-guide)
-- [Introduction](#introduction)
-- [Key Contributions](#key-contributions)
-- [Architecture Overview](#architecture-overview)
-- [Dataset and Preprocessing](#dataset-and-preprocessing)
-- [Experiment Settings](#experiment-settings)
-- [Conclusion](#conclusion)
-- [Index Terms](#index-terms)
-
----
-
-## Grading Guide
-For detailed evaluations, please refer to the following sections of the project:
-- **Search Problem and Dataset**: See [Section III Related Work](#introduction) and [Section IV Dataset](#dataset-and-preprocessing).
-- **Experiment Setting**: See [Section VIII Experiment Setting](#experiment-settings).
-- **Data Preprocessing**: See [Section IV Dataset B](#dataset-and-preprocessing).
-- **Paper Analysis**: See [Limitations of Anomaly-Transformer](#introduction) and [Section VI Anomaly Transformer](#architecture-overview).
-- **Reproducibility**: See [Section VI: C](#architecture-overview).
-- **Traditional Machine Learning**: See [Section V](#architecture-overview).
-- **Basic Neural Networks**: Refer to [Section V: RNN and LSTM](#architecture-overview).
-- **Complicated Neural Networks**: See [Section VII](#architecture-overview).
-- **Insights and Discussions**: Refer to [Section IX Conclusion](#conclusion).
-
----
-
 ## Introduction
 Anomaly detection involves identifying outliers that deviate significantly from the majority of data. This task is crucial in applications such as:
 - Server monitoring
