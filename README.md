@@ -1,5 +1,5 @@
-# Anomaly-TransformerX: Multi-Feature Fusion Ensemble with Performance-based Voting
-
+# COMP4434 Project: Anomaly-TransformerX: Multi-Feature Fusion Ensemble with Performance-based Voting
+We got full mark in this project.
 ## Overview
 This repository contains the implementation and details of our project **Anomaly-TransformerX**, developed as part of the **COMP4434 Big Data Analytics Project**. Our work focuses on enhancing anomaly detection in time series data by addressing limitations in existing methodologies, particularly the Anomaly Transformer model. 
 ![COMP NN](compnn.png)
