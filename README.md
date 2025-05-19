@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains the implementation and details of our project **Anomaly-TransformerX**, developed as part of the **COMP4434 Big Data Analytics Project**. Our work focuses on enhancing anomaly detection in time series data by addressing limitations in existing methodologies, particularly the Anomaly Transformer model. 
-[COMP NN](compnn.png)
+![COMP NN](compnn.png)
 ## Introduction
 
 Deep learning has significantly advanced anomaly detection, providing automatic feature learning and improved accuracy. In this project, we propose **Anomaly-TransformerX** to address the limitations of the existing **Anomaly Transformer** model. 
